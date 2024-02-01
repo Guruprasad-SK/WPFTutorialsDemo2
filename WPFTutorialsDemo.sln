@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxDemo", "WindowClassdemo\CheckBoxDemo.csproj", "{17C5FDB1-59DE-4395-A646-B7C2DBA65E05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuControls", "MenuControls\MenuControls.csproj", "{F2F1256F-F620-4376-B0B5-3D09D1E8BDC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17C5FDB1-59DE-4395-A646-B7C2DBA65E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C5FDB1-59DE-4395-A646-B7C2DBA65E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C5FDB1-59DE-4395-A646-B7C2DBA65E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F1256F-F620-4376-B0B5-3D09D1E8BDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F1256F-F620-4376-B0B5-3D09D1E8BDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F1256F-F620-4376-B0B5-3D09D1E8BDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F1256F-F620-4376-B0B5-3D09D1E8BDC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
